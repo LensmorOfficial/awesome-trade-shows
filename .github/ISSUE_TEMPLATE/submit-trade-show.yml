@@ -1,0 +1,69 @@
+name: Submit a trade show
+description: Add a trade show to the list
+title: "Add: [Trade Show Name]"
+labels: ["submission"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Trade show name
+      placeholder: Example Expo
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Official website
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: City, Country
+    validations:
+      required: true
+  - type: input
+    id: timing
+    attributes:
+      label: Frequency and month(s)
+      placeholder: Annual, March
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: One-line description
+      placeholder: Brief description for the list
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Technology & Electronics
+        - Food & Beverage
+        - Fashion & Textiles
+        - Construction & Building Materials
+        - Automotive & Transportation
+        - Healthcare & Medical
+        - Energy & Environment
+        - Agriculture
+        - Asia
+        - Europe
+        - North America
+        - Middle East & Africa
+        - Latin America
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I confirm the event is active
+          required: true
+        - label: I confirm the link is official and working
+          required: true
+        - label: I added or suggested the correct category
+          required: true

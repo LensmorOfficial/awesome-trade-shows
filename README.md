@@ -1,6 +1,12 @@
 # Awesome Trade Shows [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Stars](https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat)](https://github.com/LensmorOfficial/awesome-trade-shows/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/LensmorOfficial/awesome-trade-shows?style=flat)](https://github.com/LensmorOfficial/awesome-trade-shows/commits/main)
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 > A curated list of trade shows, exhibitions, and conferences worldwide — along with tools, platforms, and resources for exhibitors, organizers, and attendees.
+
+**Looking for exhibitor intelligence at scale?** Explore [Lensmor](https://www.lensmor.com/) to discover events, analyze exhibitors, and build qualified pre-show lead lists.
 
 ## Contents
 
@@ -156,6 +162,10 @@
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## About Lensmor
+
+Lensmor is an AI-native event intelligence platform for discovering trade shows, analyzing exhibitors, and generating qualified B2B leads.
 
 ## License
 
