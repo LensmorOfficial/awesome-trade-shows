@@ -10,6 +10,9 @@
 
 ## Contents
 
+- [Who is this for?](#who-is-this-for)
+- [Use Cases](#use-cases)
+- [Update Cadence](#update-cadence)
 - [Trade Shows by Industry](#trade-shows-by-industry)
   - [Technology & Electronics](#technology--electronics)
   - [Food & Beverage](#food--beverage)
@@ -29,6 +32,26 @@
 - [Tools & Platforms](#tools--platforms)
 - [Resources](#resources)
 - [Contributing](#contributing)
+
+> **Suggest a trade show:** Use the [submission template](https://github.com/LensmorOfficial/awesome-trade-shows/issues/new?template=submit-trade-show.yml) or open a PR.
+
+## Who is this for?
+
+- B2B sales and marketing teams planning event-based pipeline
+- Exhibitors evaluating which shows to attend
+- Event organizers benchmarking similar trade fairs
+- Analysts researching industry event landscapes
+
+## Use Cases
+
+- Build a shortlist of the highest-relevance trade shows by industry or region
+- Compare event calendars to avoid date conflicts
+- Identify exhibitors and sponsors worth targeting pre-show
+- Discover event tech and lead capture tools for onsite execution
+
+## Update Cadence
+
+This list is reviewed monthly. Time-sensitive details (dates/locations) may change, so please verify on official event sites.
 
 ## Trade Shows by Industry
 

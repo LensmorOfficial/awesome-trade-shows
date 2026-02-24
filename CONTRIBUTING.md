@@ -4,6 +4,13 @@ Thank you for your interest in contributing to Awesome Trade Shows!
 
 ## How to Contribute
 
+You can contribute in two ways:
+
+- **Submit an issue** using the [trade show submission form](https://github.com/LensmorOfficial/awesome-trade-shows/issues/new?template=submit-trade-show.yml)
+- **Open a pull request** with a direct edit
+
+### Pull Request Steps
+
 1. Fork this repository.
 2. Create a new branch: `git checkout -b add-trade-show-name`.
 3. Add your changes.
@@ -26,6 +33,7 @@ Please ensure your submission meets the following criteria:
 - Place the entry in the **correct category** (by industry or by region).
 - Keep descriptions concise (one sentence).
 - Maintain **alphabetical order** within each section.
+- If you used the **issue template**, include the same details in your PR description.
 
 ## Adding a Tool or Resource
 
