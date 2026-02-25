@@ -8,8 +8,17 @@
 
 **Looking for exhibitor intelligence at scale?** Explore [Lensmor](https://www.lensmor.com/) to discover events, analyze exhibitors, and build qualified pre-show lead lists.
 
+## New This Month
+
+- [GITEX Global](https://www.gitex.com/) - Technology trade show for the MENA region. Dubai, UAE. Annual, October. *(new)*
+- [Gulfood](https://www.gulfood.com/) - Largest annual food & beverage trade show. Dubai, UAE. Annual, February. *(new)*
+- [AfricaCom](https://tmt.knect365.com/africacom/) - Africa's largest technology and telecommunications event. Cape Town, South Africa. Annual. *(new)*
+- [Hannover Messe](https://www.hannovermesse.de/) - World's leading industrial technology trade fair. Hanover, Germany. Annual, April. *(new)*
+- [NRF Retail's Big Show](https://nrfbigshow.nrf.com/) - Retail industry's largest event. New York, USA. Annual, January. *(new)*
+
 ## Contents
 
+- [New This Month](#new-this-month)
 - [Who is this for?](#who-is-this-for)
 - [Use Cases](#use-cases)
 - [Update Cadence](#update-cadence)
