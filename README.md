@@ -10,11 +10,11 @@
 
 ## New This Month
 
-- [GITEX Global](https://www.gitex.com/) - Technology trade show for the MENA region. Dubai, UAE. Annual, October. *(new)*
-- [Gulfood](https://www.gulfood.com/) - Largest annual food & beverage trade show. Dubai, UAE. Annual, February. *(new)*
-- [AfricaCom](https://tmt.knect365.com/africacom/) - Africa's largest technology and telecommunications event. Cape Town, South Africa. Annual. *(new)*
-- [Hannover Messe](https://www.hannovermesse.de/) - World's leading industrial technology trade fair. Hanover, Germany. Annual, April. *(new)*
-- [NRF Retail's Big Show](https://nrfbigshow.nrf.com/) - Retail industry's largest event. New York, USA. Annual, January. *(new)*
+- [Embedded World](https://www.embedded-world.de/en) - Embedded systems and IoT. Nuremberg, Germany. Annual, March. *(new)*
+- [FOODEX Japan](https://www.jma.or.jp/foodex/en/) - International food and beverage exhibition. Tokyo, Japan. Annual, March. *(new)*
+- [HIMSS Global Health Conference](https://www.himss.org/global-health-conference) - Health IT conference and expo. USA. Annual, March. *(new)*
+- [IMTS](https://www.imts.com/) - International Manufacturing Technology Show. Chicago, USA. Biennial. *(new)*
+- [SEMA Show](https://www.semashow.com/) - Specialty automotive products and aftermarket. Las Vegas, USA. Annual, November. *(new)*
 
 ## Contents
 
@@ -27,6 +27,7 @@
   - [Food & Beverage](#food--beverage)
   - [Fashion & Textiles](#fashion--textiles)
   - [Construction & Building Materials](#construction--building-materials)
+  - [Manufacturing & Industrial](#manufacturing--industrial)
   - [Automotive & Transportation](#automotive--transportation)
   - [Healthcare & Medical](#healthcare--medical)
   - [Energy & Environment](#energy--environment)
@@ -71,34 +72,68 @@ This list is reviewed monthly. Time-sensitive details (dates/locations) may chan
 - [COMPUTEX](https://www.computextaipei.com.tw/) - Asia's largest ICT trade show. Taipei, Taiwan. Annual, May–June.
 - [IFA Berlin](https://www.ifa-berlin.com/) - Consumer electronics and home appliances. Berlin, Germany. Annual, September.
 - [GITEX Global](https://www.gitex.com/) - Technology trade show for the MENA region. Dubai, UAE. Annual, October.
+- [NAB Show](https://nabshow.com/) - Media, entertainment, and broadcast technology. Las Vegas, USA. Annual, April.
+- [Embedded World](https://www.embedded-world.de/en) - Embedded systems and IoT. Nuremberg, Germany. Annual, March.
+- [Electronica](https://www.electronica.de/en/) - Electronics components and systems. Munich, Germany. Biennial, November.
+- [SEMICON China](https://www.semiconchina.org/) - Semiconductor manufacturing and supply chain. Shanghai, China. Annual, March.
+- [Interop Tokyo](https://www.interop.jp/) - Internet and network technology. Tokyo, Japan. Annual, June.
 
 ### Food & Beverage
 
 - [Anuga](https://www.anuga.com/) - World's largest food and beverage trade fair. Cologne, Germany. Biennial, October.
 - [SIAL Paris](https://www.sialparis.com/) - Global food innovation exhibition. Paris, France. Biennial, October.
 - [Gulfood](https://www.gulfood.com/) - Largest annual food & beverage trade show. Dubai, UAE. Annual, February.
+- [SIAL China](https://www.sialchina.com/) - Food innovation and import/export marketplace. Shanghai, China. Annual, May.
+- [FOODEX Japan](https://www.jma.or.jp/foodex/en/) - International food and beverage exhibition. Tokyo, Japan. Annual, March.
+- [Seafood Expo Global](https://www.seafoodexpo.com/global/) - Global seafood industry expo. Barcelona, Spain. Annual, April.
+- [Fancy Food Show](https://www.specialtyfood.com/fancy-food-show/) - Specialty food and beverage trade show. New York, USA. Annual, June.
+- [Sweets & Snacks Expo](https://www.sweetsandsnacks.com/) - Confectionery and snacks industry. USA. Annual, May.
 
 ### Fashion & Textiles
 
 - [MAGIC](https://www.magicfashionevents.com/) - Fashion trade show. Las Vegas, USA. Biannual, February & August.
 - [Texworld Paris](https://texworld-paris.fr.messefrankfurt.com/) - International fabric sourcing fair. Paris, France. Biannual.
 - [Intertextile Shanghai](https://intertextile-shanghai-apparel-fabrics.hk.messefrankfurt.com/) - Asia's largest apparel fabrics and accessories trade fair. Shanghai, China. Biannual.
+- [Premiere Vision Paris](https://www.premierevision.com/en) - Fabric, yarns, and design trends. Paris, France. Biannual.
+- [Milano Unica](https://www.milanounica.it/en) - High-end textiles and accessories. Milan, Italy. Biannual.
+- [Texworld USA](https://texworld-usa.us.messefrankfurt.com/) - Apparel fabric sourcing. New York, USA. Biannual.
+- [Apparel Sourcing Paris](https://apparel-sourcing-paris.fr.messefrankfurt.com/) - Apparel manufacturing and sourcing. Paris, France. Biannual.
 
 ### Construction & Building Materials
 
 - [bauma](https://bauma.de/) - World's largest construction machinery trade fair. Munich, Germany. Triennial.
 - [The Big 5](https://www.thebig5.ae/) - Construction industry event for the Middle East. Dubai, UAE. Annual, December.
 
+### Manufacturing & Industrial
+
+- [Hannover Messe](https://www.hannovermesse.de/) - Industrial technology and manufacturing. Hanover, Germany. Annual, April.
+- [IMTS](https://www.imts.com/) - International Manufacturing Technology Show. Chicago, USA. Biennial.
+- [EMO Hannover](https://emo-hannover.de/en) - Machine tools and production technology. Hanover, Germany. Biennial.
+- [FABTECH](https://www.fabtechexpo.com/) - Metal forming, fabricating, welding, and finishing. USA. Annual, November.
+- [Automatica](https://automatica-munich.com/en/) - Automation and robotics. Munich, Germany. Biennial.
+- [EuroBLECH](https://www.euroblech.com/en/) - Sheet metal working technology. Hanover, Germany. Biennial.
+
 ### Automotive & Transportation
 
 - [IAA Mobility](https://www.iaa-mobility.com/) - International Motor Show. Munich, Germany. Biennial.
 - [Auto Shanghai / Auto China](http://www.autoshow.com.cn/) - China's premier auto show. Shanghai / Beijing, China. Annual, alternating cities.
 - [Automechanika](https://automechanika.messefrankfurt.com/) - Automotive parts and aftermarket. Frankfurt, Germany. Biennial.
+- [SEMA Show](https://www.semashow.com/) - Specialty automotive products and aftermarket. Las Vegas, USA. Annual, November.
+- [Detroit Auto Show](https://www.naias.com/) - North American International Auto Show. Detroit, USA. Annual.
+- [Automotive World](https://www.automotiveworld.jp/en-gb.html) - Automotive electronics and manufacturing. Tokyo, Japan. Annual.
+- [Automechanika Shanghai](https://automechanika-shanghai.hk.messefrankfurt.com/) - Automotive parts and aftermarket. Shanghai, China. Annual.
+- [Automechanika Dubai](https://automechanika.messefrankfurt.com/dubai/en.html) - Automotive aftermarket and services. Dubai, UAE. Annual.
+- [Tokyo Auto Salon](https://www.tokyoautosalon.jp/2026/en/) - Performance and custom automotive exhibition. Tokyo, Japan. Annual.
 
 ### Healthcare & Medical
 
 - [MEDICA](https://www.medica-tradefair.com/) - World Forum for Medicine. Dusseldorf, Germany. Annual, November.
 - [Arab Health](https://www.arabhealthonline.com/) - Largest healthcare exhibition in the Middle East. Dubai, UAE. Annual, January.
+- [HIMSS Global Health Conference](https://www.himss.org/global-health-conference) - Health IT conference and expo. USA. Annual, March.
+- [RSNA Annual Meeting](https://www.rsna.org/annual-meeting) - Radiology annual meeting and expo. Chicago, USA. Annual, November/December.
+- [FIME](https://www.fime.com/) - Medical device and equipment trade show. Miami, USA. Annual, June.
+- [MEDLAB Middle East](https://www.medlabme.com/) - Laboratory and diagnostics exhibition. Dubai, UAE. Annual, February.
+- [BIO International Convention](https://www.bio.org/events/bio-international-convention) - Biotechnology convention and partnering. USA. Annual, June.
 
 ### Energy & Environment
 
