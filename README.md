@@ -184,6 +184,13 @@
 - [The Art of the Trade Show](https://www.amazon.com/dp/0965527506) - By Steve Miller. Maximizing trade show ROI.
 - [Trade Show in a Day](https://www.amazon.com/dp/0974080160) - By Rhonda Abrams. Getting started with trade show exhibitions.
 
+## Related Projects
+
+- [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) — Open dataset of global trade shows (CSV + JSON)
+- [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — Complete B2B trade show ROI playbook
+- [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) — Map of 80+ tools powering the event industry
+- [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) — Ready-to-use email templates for trade show outreach
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
