@@ -184,6 +184,16 @@
 - [Lensmor](https://www.lensmor.com/) - AI-powered trade show intelligence platform for exhibitor discovery and analysis.
 - [Swapcard](https://www.swapcard.com/) - Event management and networking platform.
 
+### Open Source Event Tools
+
+- [Attendize](https://github.com/Attendize/Attendize) - Open-source ticketing and event management platform (Laravel).
+- [Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticketing.
+- [pretix](https://github.com/pretix/pretix) - Conference and trade show ticketing system (Python).
+- [eventyay](https://github.com/fossasia/eventyay) - Event management, ticketing, and video.
+- [alf.io](https://github.com/alfio-event/alf.io) - Conference and exhibition ticketing (Java).
+- [osem](https://github.com/openSUSE/osem) - FOSS conference and event management.
+- [gathio](https://github.com/lowercasename/gathio) - Lightweight event page builder.
+
 ### Lead Capture and Management
 
 - [atEvent](https://www.atevent.com/) - Lead capture app with badge scanning for trade shows.
