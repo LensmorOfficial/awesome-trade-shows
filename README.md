@@ -1,5 +1,7 @@
 # Awesome Trade Shows [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> **[Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows)** — Trade show intelligence platform. Find exhibitors, track competitors, and discover opportunities.
+
 > A curated list of trade shows, exhibitions, and conferences worldwide — along with tools, platforms, and resources for exhibitors, organizers, and attendees.
 
 ## Contents
@@ -15,6 +17,9 @@
   - [Beauty and Cosmetics](#beauty-and-cosmetics)
   - [Energy and Environment](#energy-and-environment)
   - [Agriculture](#agriculture)
+  - [Aerospace and Defense](#aerospace-and-defense)
+  - [Logistics and Supply Chain](#logistics-and-supply-chain)
+  - [Packaging and Printing](#packaging-and-printing)
 - [Trade Shows by Region](#trade-shows-by-region)
   - [Asia](#asia)
   - [Europe](#europe)
@@ -117,6 +122,21 @@
 - [Agritechnica](https://www.agritechnica.com/) - World's largest agricultural machinery exhibition. Hanover, Germany. Biennial.
 - [SIMA](https://en.simaonline.com/) - International agribusiness show. Paris, France. Biennial, November.
 
+### Aerospace and Defense
+
+- [Farnborough International Airshow](https://www.farnboroughairshow.com/) - Aerospace and defense trade show. Farnborough, UK. Biennial.
+- [I/ITSEC](https://www.iitsec.org/) - Defense training and simulation expo. Orlando, USA. Annual, November–December.
+
+### Logistics and Supply Chain
+
+- [CeMAT](https://www.cemat.de/) - Intralogistics and supply chain expo. Hanover, Germany. Biennial.
+- [LogiMAT](https://www.logimat-messe.de/en) - Intralogistics and process management. Stuttgart, Germany. Annual, March.
+
+### Packaging and Printing
+
+- [PACK EXPO International](https://www.packexpointernational.com/) - Packaging and processing technologies. Chicago, USA. Biennial.
+- [drupa](https://www.drupa.com/) - Printing technologies and graphic communications. Dusseldorf, Germany. Quadrennial.
+
 ## Trade Shows by Region
 
 ### Asia
@@ -181,7 +201,7 @@
 
 - [Bizzabo](https://www.bizzabo.com/) - Event experience operating system.
 - [Grip](https://grip.events/) - AI-powered event networking and matchmaking.
-- [Lensmor](https://www.lensmor.com/) - AI-powered trade show intelligence platform for exhibitor discovery and analysis.
+- [Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows) - AI-powered trade show intelligence platform for exhibitor discovery and analysis.
 - [Swapcard](https://www.swapcard.com/) - Event management and networking platform.
 
 ### Open Source Event Tools
