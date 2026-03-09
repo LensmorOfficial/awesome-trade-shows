@@ -1,6 +1,16 @@
+<p align="center">
+  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows">
+    <img src="https://raw.githubusercontent.com/LensmorOfficial/.github/main/profile/assets/banner.png" alt="Lensmor" width="600">
+  </a>
+</p>
+
 # Awesome Trade Shows [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> **[Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows)** — Trade show intelligence platform. Find exhibitors, track competitors, and discover opportunities.
+[![Stars](https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat)](https://github.com/LensmorOfficial/awesome-trade-shows/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/LensmorOfficial/awesome-trade-shows?style=flat)](https://github.com/LensmorOfficial/awesome-trade-shows/commits/main)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+**If you find this list useful, please star this repo — it helps others discover it.**
 
 > A curated list of trade shows, exhibitions, and conferences worldwide — along with tools, platforms, and resources for exhibitors, organizers, and attendees.
 
@@ -235,11 +245,6 @@
 - [OnSiteIQ](https://www.onsiteiq.io/) - On-site performance and ROI analytics for live events.
 - [Map Your Show](https://www.mapyourshow.com/) - Floor plans, exhibitor listings, and lead insights.
 
-### Lead Capture and Management
-
-- [Cvent LeadCapture](https://www.cvent.com/en/event-marketing-management/lead-capture-app) - Event lead management.
-- [iCapture](https://www.icapture.com/) - Lead capture solution for trade shows.
-
 ## Resources
 
 ### Industry Reports
@@ -259,10 +264,15 @@
 - [The Art of the Trade Show](https://www.amazon.com/dp/0965527506) - By Steve Miller. Maximizing trade show ROI.
 - [Trade Show in a Day](https://www.amazon.com/dp/0974080160) - By Rhonda Abrams. Getting started with trade show exhibitions.
 
+## About Lensmor
+
+[Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors (uncovering [hidden competitors](https://www.lensmor.com/blog/hidden-competitors-trade-shows?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows)), and generate [qualified leads](https://www.lensmor.com/blog/trade-show-lead-capture?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows) before the event starts.
+
 ## Related Projects
 
 - [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) — Open dataset of global trade shows (CSV + JSON)
 - [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — Complete B2B trade show ROI playbook
+- [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) — AI-powered Claude Code skills for trade show automation
 - [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) — Map of 80+ tools powering the event industry
 - [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) — Ready-to-use email templates for trade show outreach
 
