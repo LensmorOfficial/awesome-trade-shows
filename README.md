@@ -79,8 +79,12 @@
 
 ### Construction and Building Materials
 
+- [BATIMAT](https://www.batimat.com/) - International building and construction exhibition. Paris, France. Biennial, October.
 - [bauma](https://bauma.de/) - World's largest construction machinery trade fair. Munich, Germany. Triennial.
+- [CONEXPO-CON/AGG](https://www.conexpoconagg.com/) - Construction trades and aggregates expo. Las Vegas, USA. Triennial, March.
+- [ISH](https://ish.messefrankfurt.com/) - HVAC, water, and energy technology. Frankfurt, Germany. Biennial, March.
 - [The Big 5](https://www.thebig5.ae/) - Construction industry event for the Middle East. Dubai, UAE. Annual, December.
+- [World of Concrete](https://www.worldofconcrete.com/) - Concrete and masonry construction. Las Vegas, USA. Annual, January.
 
 ### Manufacturing and Industrial
 
@@ -125,27 +129,43 @@
 ### Energy and Environment
 
 - [ADIPEC](https://www.adipec.com/) - Abu Dhabi International Petroleum Exhibition and Conference. Abu Dhabi, UAE. Annual, November.
+- [Gastech](https://www.gastechevent.com/) - Gas, LNG, hydrogen, and energy conference and exhibition. Rotating cities. Annual, September.
+- [Intersolar Europe](https://www.intersolar.de/en) - Solar industry and energy storage exhibition. Munich, Germany. Annual, June.
 - [Solar Power International](https://www.solarpowerinternational.com/) - North America's premier solar energy event. USA. Annual, September.
+- [WindEnergy Hamburg](https://www.windenergyhamburg.com/) - Global onshore and offshore wind energy expo. Hamburg, Germany. Biennial, September.
+- [World Future Energy Summit](https://www.worldfutureenergysummit.com/) - Renewable energy and sustainability. Abu Dhabi, UAE. Annual, January.
 
 ### Agriculture
 
 - [Agritechnica](https://www.agritechnica.com/) - World's largest agricultural machinery exhibition. Hanover, Germany. Biennial.
+- [EIMA International](https://www.eima.it/en) - Agricultural and gardening machinery exhibition. Bologna, Italy. Biennial, November.
+- [Fruit Logistica](https://www.fruitlogistica.com/) - Fresh produce trade fair and sourcing event. Berlin, Germany. Annual, February.
 - [SIMA](https://en.simaonline.com/) - International agribusiness show. Paris, France. Biennial, November.
+- [World Ag Expo](https://www.worldagexpo.com/) - World's largest annual agricultural exposition. Tulare, USA. Annual, February.
 
 ### Aerospace and Defense
 
+- [DSEI](https://www.dsei.co.uk/) - Defense and security equipment international. London, UK. Biennial, September.
 - [Farnborough International Airshow](https://www.farnboroughairshow.com/) - Aerospace and defense trade show. Farnborough, UK. Biennial.
 - [I/ITSEC](https://www.iitsec.org/) - Defense training and simulation expo. Orlando, USA. Annual, November–December.
+- [Paris Air Show](https://www.siae.fr/en) - International aerospace exhibition at Le Bourget. Paris, France. Biennial, June.
+- [Singapore Airshow](https://www.singaporeairshow.com/) - Asia's largest aerospace and defense exhibition. Singapore. Biennial, February.
 
 ### Logistics and Supply Chain
 
 - [CeMAT](https://www.cemat.de/) - Intralogistics and supply chain expo. Hanover, Germany. Biennial.
 - [LogiMAT](https://www.logimat-messe.de/en) - Intralogistics and process management. Stuttgart, Germany. Annual, March.
+- [MODEX](https://www.modexshow.com/) - Supply chain and manufacturing automation. Atlanta, USA. Biennial, March.
+- [ProMat](https://www.promatshow.com/) - Material handling and logistics equipment. Chicago, USA. Biennial, March.
+- [Transport Logistic](https://www.transportlogistic.de/en/) - International trade fair for logistics, mobility, and supply chain. Munich, Germany. Biennial, May.
 
 ### Packaging and Printing
 
-- [PACK EXPO International](https://www.packexpointernational.com/) - Packaging and processing technologies. Chicago, USA. Biennial.
 - [drupa](https://www.drupa.com/) - Printing technologies and graphic communications. Dusseldorf, Germany. Quadrennial.
+- [FachPack](https://www.fachpack.de/en) - European trade fair for packaging, processing, and technology. Nuremberg, Germany. Annual, September.
+- [interpack](https://www.interpack.com/) - Processing and packaging trade fair. Dusseldorf, Germany. Triennial, May.
+- [Labelexpo Europe](https://www.labelexpo-europe.com/) - Label and package printing technology. Brussels, Belgium. Biennial, September.
+- [PACK EXPO International](https://www.packexpointernational.com/) - Packaging and processing technologies. Chicago, USA. Biennial.
 
 ## Trade Shows by Region
 
@@ -226,16 +246,13 @@
 
 ### Lead Capture and Management
 
-- [atEvent](https://www.atevent.com/) - Lead capture app with badge scanning for trade shows.
 - [Akkroo](https://www.akkroo.com/) - GDPR-friendly lead capture and event data capture.
-- [iCapture](https://www.icapture.com/) - Lead capture solution for trade shows.
-- [LeadsRetriever](https://www.leadsretriever.com/) - Lead capture for trade shows and conferences.
-
+- [atEvent](https://www.atevent.com/) - Lead capture app with badge scanning for trade shows.
 - [Cvent LeadCapture](https://www.cvent.com/en/event-marketing-management/lead-capture-app) - Event lead management and badge scanning.
-- [iCapture](https://www.icapture.com/) - Lead capture solution for trade shows.
-- [atEvent](https://www.atevent.com/) - Trade show lead capture app with badge scanning.
-- [Leadature](https://leadature.com) - Lead capture and badge scanning for exhibitors.
 - [ExpoFP Exhibitor Portal](https://www.expofp.com/) - Exhibitor listings and lead tools tied to floor plans.
+- [iCapture](https://www.icapture.com/) - Lead capture solution for trade shows.
+- [Leadature](https://leadature.com) - Lead capture and badge scanning for exhibitors.
+- [LeadsRetriever](https://www.leadsretriever.com/) - Lead capture for trade shows and conferences.
 
 ### Booth Design, Logistics, and ROI Tools
 
