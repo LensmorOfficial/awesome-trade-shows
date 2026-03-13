@@ -1,18 +1,12 @@
-<p align="center">
-  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows">
-    <img src="https://raw.githubusercontent.com/LensmorOfficial/.github/main/profile/assets/banner.png" alt="Lensmor" width="600">
-  </a>
-</p>
-
 # Awesome Trade Shows [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Stars](https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat)](https://github.com/LensmorOfficial/awesome-trade-shows/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LensmorOfficial/awesome-trade-shows?style=flat)](https://github.com/LensmorOfficial/awesome-trade-shows/commits/main)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-**If you find this list useful, please star this repo — it helps others discover it.**
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0%201.0-lightgrey.svg)](LICENSE)
 
 > A curated list of trade shows, exhibitions, and conferences worldwide — along with tools, platforms, and resources for exhibitors, organizers, and attendees.
+
+**If you find this list useful, please star this repo — it helps others discover it.**
 
 ## Contents
 
@@ -40,6 +34,8 @@
 - [Exhibition Venues](#exhibition-venues)
 - [Tools and Platforms](#tools-and-platforms)
 - [Resources](#resources)
+- [About Lensmor](#about-lensmor)
+- [Related Projects](#related-projects)
 
 ## Trade Shows by Industry
 
@@ -165,7 +161,7 @@
 - [FachPack](https://www.fachpack.de/en) - European trade fair for packaging, processing, and technology. Nuremberg, Germany. Annual, September.
 - [interpack](https://www.interpack.com/) - Processing and packaging trade fair. Dusseldorf, Germany. Triennial, May.
 - [Labelexpo Europe](https://www.labelexpo-europe.com/) - Label and package printing technology. Brussels, Belgium. Biennial, September.
-- [PACK EXPO International](https://www.packexpointernational.com/) - Packaging and processing technologies. Chicago, USA. Biennial.
+- [Pack Expo International](https://www.packexpointernational.com/) - Packaging and processing technologies. Chicago, USA. Biennial.
 
 ## Trade Shows by Region
 
@@ -189,8 +185,11 @@
 
 ### North America
 
+- [HIMSS Global Health Conference](https://www.himssconference.com/) - Health information and technology. USA. Annual, March.
 - [NRF Retail's Big Show](https://nrfbigshow.nrf.com/) - Retail industry's largest event. New York, USA. Annual, January.
-- [Pack Expo](https://www.packexpointernational.com/) - Packaging and processing technologies. Chicago, USA. Biennial.
+- [RSA Conference](https://www.rsaconference.com/) - Cybersecurity industry's largest annual event. San Francisco, USA. Annual.
+- [SHOT Show](https://www.shotshow.org/) - Shooting, hunting, and outdoor trade show. Las Vegas, USA. Annual, January.
+- [Toy Fair New York](https://www.toyfairny.com/) - Toy, game, and entertainment industry. New York, USA. Annual, February.
 
 ### Middle East and Africa
 
@@ -231,8 +230,8 @@
 
 - [Bizzabo](https://www.bizzabo.com/) - Event experience operating system.
 - [Grip](https://grip.events/) - AI-powered event networking and matchmaking.
-- [Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows) - AI-powered trade show intelligence platform for exhibitor discovery and analysis.
 - [Swapcard](https://www.swapcard.com/) - Event management and networking platform.
+- [Vendelux](https://www.vendelux.com/) - Event intelligence platform for ROI tracking and attendee analytics.
 
 ### Open Source Event Tools
 
@@ -283,15 +282,15 @@
 
 ## About Lensmor
 
-[Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors (uncovering [hidden competitors](https://www.lensmor.com/blog/hidden-competitors-trade-shows?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows)), and generate [qualified leads](https://www.lensmor.com/blog/trade-show-lead-capture?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows) before the event starts.
+[Lensmor](https://www.lensmor.com/) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors, and generate qualified leads before the event starts.
 
 ## Related Projects
 
-- [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) — Open dataset of global trade shows (CSV + JSON)
-- [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — Complete B2B trade show ROI playbook
-- [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) — AI-powered Claude Code skills for trade show automation
-- [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) — Map of 80+ tools powering the event industry
-- [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) — Ready-to-use email templates for trade show outreach
+- [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) - Open dataset of global trade shows in CSV and JSON.
+- [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) - Complete B2B trade show ROI playbook covering pre-show to post-show.
+- [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) - AI-powered Claude Code skills for trade show automation.
+- [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) - Map of 80+ tools powering the event industry.
+- [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) - Ready-to-use email templates for trade show outreach.
 
 ## Contributing
 
