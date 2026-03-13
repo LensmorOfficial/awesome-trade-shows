@@ -169,7 +169,10 @@
 
 - [Canton Fair](https://www.cantonfair.org.cn/) - China Import and Export Fair. Guangzhou, China. Biannual, April and October.
 - [CIIE](https://www.ciie.org/) - China International Import Expo. Shanghai, China. Annual, November.
-- [Japan IT Week](https://www.japan-it.jp/en-gb.html) - Japan's largest IT trade show. Tokyo, Japan. Biannual.
+- [COMPUTEX](https://www.computextaipei.com.tw/) - Asia's largest ICT and technology trade show. Taipei, Taiwan. Annual, May–June.
+- [Japan IT Week](https://www.japan-it.jp/en-gb.html) - Japan's largest IT trade show cluster. Tokyo, Japan. Biannual.
+- [FOODEX Japan](https://www.jma.or.jp/foodex/en/) - International food and beverage exhibition. Tokyo, Japan. Annual, March.
+- [GITEX Global](https://www.gitex.com/) - Technology showcase for the MENA and Asia markets. Dubai, UAE. Annual, October.
 - [KOREA PACK](https://www.koreapack.org/) - Korea International Packaging Exhibition. Seoul, South Korea. Biennial.
 - [Manufacturing Indonesia](https://www.manufacturingindonesia.com/) - Manufacturing and machinery exhibition. Jakarta, Indonesia. Annual.
 - [MTA Vietnam](https://www.mtainternational.com/) - Precision engineering and manufacturing expo. Ho Chi Minh City, Vietnam. Annual.
@@ -177,29 +180,61 @@
 - [Philconstruct](https://www.philconstructevents.com/) - Construction and building materials expo. Manila, Philippines. Annual.
 - [ProPak Asia](https://www.propakasia.com/) - Processing and packaging trade show. Bangkok, Thailand. Annual, June.
 - [SEMICON Southeast Asia](https://www.semiconsea.org/) - Semiconductor manufacturing and supply chain. Singapore. Annual.
+- [Auto Shanghai / Auto China](http://www.autoshow.com.cn/) - China's premier auto show. Shanghai / Beijing, China. Annual, alternating cities.
+- [ITB Asia](https://www.itb-asia.com/) - Leading travel trade show in Asia. Singapore. Annual, October.
 
 ### Europe
 
+- [Hannover Messe](https://www.hannovermesse.de/) - World's leading industrial technology trade fair. Hanover, Germany. Annual, April.
+- [MEDICA](https://www.medica-tradefair.com/) - World Forum for Medicine — largest medical trade fair. Dusseldorf, Germany. Annual, November.
+- [bauma](https://bauma.de/) - World's largest construction machinery trade fair. Munich, Germany. Triennial.
+- [Anuga](https://www.anuga.com/) - World's largest food and beverage trade fair. Cologne, Germany. Biennial, October.
+- [drupa](https://www.drupa.com/) - Global hub for print and packaging technologies. Dusseldorf, Germany. Quadrennial.
 - [FIBO](https://www.fibo.com/) - International trade show for fitness, wellness, and health. Cologne, Germany. Annual, April.
-- [Fiera Milano](https://www.fieramilano.it/) - Major exhibition complex hosting multiple industry trade shows. Milan, Italy.
+- [Embedded World](https://www.embedded-world.de/en) - Embedded systems and IoT. Nuremberg, Germany. Annual, March.
+- [ISE](https://www.iseurope.org/) - Integrated Systems Europe — professional AV and tech. Barcelona, Spain. Annual, February.
+- [MWC Barcelona](https://www.mwcbarcelona.com/) - Mobile World Congress — largest mobile industry event. Barcelona, Spain. Annual, February–March.
+- [SIAL Paris](https://www.sialparis.com/) - Global food innovation exhibition. Paris, France. Biennial, October.
+- [Cosmoprof Worldwide Bologna](https://www.cosmoprof.com/) - Global beauty and cosmetics trade show. Bologna, Italy. Annual, March.
+- [Interpack](https://www.interpack.com/) - Processing and packaging trade fair. Dusseldorf, Germany. Triennial, May.
+- [DMEXCO](https://dmexco.com/) - Digital marketing expo and conference. Cologne, Germany. Annual, September.
+- [Web Summit](https://websummit.com/) - Global technology conference. Lisbon, Portugal. Annual, November.
+- [CPHI Europe](https://www.cphi.com/) - Pharmaceutical industry exhibition. Milan, Italy. Annual, October.
 
 ### North America
 
-- [HIMSS Global Health Conference](https://www.himssconference.com/) - Health information and technology. USA. Annual, March.
+- [CES](https://www.ces.tech/) - Consumer Electronics Show — world's largest consumer tech event. Las Vegas, USA. Annual, January.
+- [NAB Show](https://nabshow.com/) - Media, entertainment, and broadcast technology. Las Vegas, USA. Annual, April.
+- [HIMSS Global Health Conference](https://www.himss.org/global-health-conference) - Health information and technology. USA. Annual, March.
 - [NRF Retail's Big Show](https://nrfbigshow.nrf.com/) - Retail industry's largest event. New York, USA. Annual, January.
 - [RSA Conference](https://www.rsaconference.com/) - Cybersecurity industry's largest annual event. San Francisco, USA. Annual.
+- [SEMA Show](https://www.semashow.com/) - Specialty automotive products and aftermarket. Las Vegas, USA. Annual, November.
+- [FABTECH](https://www.fabtechexpo.com/) - Metal forming, fabricating, welding, and finishing. USA. Annual, November.
 - [SHOT Show](https://www.shotshow.org/) - Shooting, hunting, and outdoor trade show. Las Vegas, USA. Annual, January.
 - [Toy Fair New York](https://www.toyfairny.com/) - Toy, game, and entertainment industry. New York, USA. Annual, February.
+- [BIO International Convention](https://www.bio.org/events/bio-international-convention) - Biotechnology convention and partnering. USA. Annual, June.
+- [MODEX](https://www.modexshow.com/) - Supply chain and manufacturing automation. Atlanta, USA. Biennial, March.
 
 ### Middle East and Africa
 
+- [GITEX Global](https://www.gitex.com/) - Technology trade show and innovation hub. Dubai, UAE. Annual, October.
+- [Gulfood](https://www.gulfood.com/) - Largest annual food and beverage trade show. Dubai, UAE. Annual, February.
+- [Arab Health](https://www.arabhealthonline.com/) - Largest healthcare exhibition in the Middle East. Dubai, UAE. Annual, January.
+- [ADIPEC](https://www.adipec.com/) - Abu Dhabi International Petroleum Exhibition and Conference. Abu Dhabi, UAE. Annual, November.
+- [The Big 5](https://www.thebig5.ae/) - Construction industry event for the Middle East. Dubai, UAE. Annual, December.
+- [Automechanika Dubai](https://automechanika.messefrankfurt.com/dubai/en.html) - Automotive aftermarket and services. Dubai, UAE. Annual.
 - [AfricaCom](https://tmt.knect365.com/africacom/) - Africa's largest technology and telecommunications event. Cape Town, South Africa. Annual.
-- [Expo Centre Sharjah](https://www.expo-centre.ae/) - Major exhibition venue hosting regional trade shows. Sharjah, UAE.
+- [GITEX Africa](https://www.gitexafrica.com/) - Africa's largest technology event. Marrakech, Morocco. Annual, April.
+- [Africa Health](https://www.africahealthexhibition.com/) - Healthcare exhibition for sub-Saharan Africa. Johannesburg, South Africa. Annual.
 
 ### Latin America
 
 - [FEIMEC](https://www.feimec.com.br/) - International machinery and equipment exhibition. Sao Paulo, Brazil. Biennial.
 - [FISA](https://www.fisaexpo.cl/) - International food trade show for South America. Santiago, Chile. Biennial.
+- [Expoagro](https://www.expoagro.com.ar/) - Agribusiness expo. San Nicolas, Argentina. Annual, March.
+- [Hospitalar](https://www.hospitalar.com/en/) - Healthcare and medical equipment. Sao Paulo, Brazil. Annual, May.
+- [Bett Brasil](https://brasil.bettshow.com/) - Education technology exhibition. Sao Paulo, Brazil. Annual.
+- [FIA Brasil](https://www.fiabrasil.com.br/) - Auto parts and aftermarket. Sao Paulo, Brazil. Annual.
 
 ### Oceania
 
@@ -212,10 +247,15 @@
 
 - [Dubai World Trade Centre](https://www.dwtc.com/) - Dubai, UAE. Premier venue for MENA region events.
 - [IMPACT Exhibition Center](https://www.impact.co.th/) - Bangkok, Thailand. Southeast Asia's largest exhibition venue.
-- [Las Vegas Convention Center](https://www.lvcva.com/) - Las Vegas, USA.
+- [Las Vegas Convention Center](https://www.lvcva.com/) - Las Vegas, USA. Home to CES, SEMA, and dozens of major trade shows.
 - [McCormick Place](https://www.mccormickplace.com/) - Chicago, USA. Largest convention center in North America.
-- [Messe Frankfurt](https://www.messefrankfurt.com/) - Frankfurt, Germany. One of the world's largest trade fair organizers.
-- [NECC Shanghai](http://www.nfrdi.com/) - National Exhibition and Convention Center. Shanghai, China.
+- [Messe Frankfurt](https://www.messefrankfurt.com/) - Frankfurt, Germany. One of the world's largest trade fair organizers and venue operators.
+- [Messe Düsseldorf](https://www.messe-duesseldorf.de/en/) - Dusseldorf, Germany. Home to MEDICA, drupa, interpack, and more.
+- [Messe München](https://www.messe-muenchen.de/en/) - Munich, Germany. Home to bauma, ISPO, Electronica, and IAA Mobility.
+- [Koelnmesse](https://www.koelnmesse.de/en/) - Cologne, Germany. Home to Anuga, FIBO, and Photokina.
+- [NECC Shanghai](https://www.neccchina.com/) - National Exhibition and Convention Center. Shanghai, China. Largest single-building exhibition complex in the world.
+- [RAI Amsterdam](https://www.rai.nl/en/) - Amsterdam, Netherlands. Major European venue for international trade shows.
+- [ExCeL London](https://www.excel.london/) - London, UK. Home to DSEI, London Tech Week, and other major events.
 
 ## Tools and Platforms
 
@@ -265,8 +305,10 @@
 
 ### Industry Reports
 
-- [CEIR Index](https://www.ceir.org/) - Center for Exhibition Industry Research reports.
+- [CEIR Index](https://www.ceir.org/) - Center for Exhibition Industry Research reports and benchmarks.
 - [UFI Global Exhibition Barometer](https://www.ufi.org/research/) - Bi-annual survey of the global exhibition industry.
+- [IAEE Exhibitions and Events Industry Outlook](https://www.iaee.com/resources/research/) - Annual outlook for the exhibitions industry.
+- [Statista: Trade Show Industry](https://www.statista.com/topics/3072/trade-shows/) - Market data and statistics on trade shows worldwide.
 
 ### Associations
 
@@ -274,11 +316,15 @@
 - [IAEE](https://www.iaee.com/) - International Association of Exhibitions and Events.
 - [SISO](https://www.siso.org/) - Society of Independent Show Organizers.
 - [UFI](https://www.ufi.org/) - The Global Association of the Exhibition Industry.
+- [AUMA](https://www.auma.de/en) - Association of the German Trade Fair Industry.
+- [AEO](https://www.aeo.org.uk/) - Association of Event Organisers (UK).
 
 ### Books and Guides
 
 - [The Art of the Trade Show](https://www.amazon.com/dp/0965527506) - By Steve Miller. Maximizing trade show ROI.
 - [Trade Show in a Day](https://www.amazon.com/dp/0974080160) - By Rhonda Abrams. Getting started with trade show exhibitions.
+- [Exhibitor Magazine Resource Library](https://www.exhibitoronline.com/) - Articles, guides, and best practices for exhibitors.
+- [CEIR Research Library](https://www.ceir.org/research) - Free research papers on exhibition industry performance and trends.
 
 ## About Lensmor
 
