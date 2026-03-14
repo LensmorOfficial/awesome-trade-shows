@@ -279,6 +279,7 @@
 
 - [Bizzabo](https://www.bizzabo.com/) - Event experience operating system.
 - [Grip](https://grip.events/) - AI-powered event networking and matchmaking.
+- [Lensmor](https://www.lensmor.com/) - AI-powered trade show intelligence platform for exhibitors. Discover shows, track competitors, and qualify leads.
 - [Swapcard](https://www.swapcard.com/) - Event management and networking platform.
 - [Vendelux](https://www.vendelux.com/) - Event intelligence platform for ROI tracking and attendee analytics.
 
