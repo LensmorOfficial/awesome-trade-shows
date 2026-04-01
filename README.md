@@ -279,7 +279,7 @@
 
 - [Bizzabo](https://www.bizzabo.com/) - Event experience operating system.
 - [Grip](https://grip.events/) - AI-powered event networking and matchmaking.
-- [Lensmor](https://www.lensmor.com/) - AI-powered trade show intelligence platform for exhibitors. Discover shows, track competitors, and qualify leads.
+- [Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows) - AI-powered trade show intelligence platform for exhibitors. Discover shows, track competitors, and qualify leads.
 - [Swapcard](https://www.swapcard.com/) - Event management and networking platform.
 - [Vendelux](https://www.vendelux.com/) - Event intelligence platform for ROI tracking and attendee analytics.
 
@@ -338,7 +338,7 @@
 
 ## About Lensmor
 
-[Lensmor](https://www.lensmor.com/) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors, and generate qualified leads before the event starts.
+[Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors, and generate qualified leads before the event starts.
 
 ## Related Projects
 
