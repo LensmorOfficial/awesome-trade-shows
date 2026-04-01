@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows">
+    <img src="https://raw.githubusercontent.com/LensmorOfficial/.github/main/profile/assets/banner.png" alt="Lensmor" width="600">
+  </a>
+</p>
+
 # Awesome Trade Shows [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Stars](https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat)](https://github.com/LensmorOfficial/awesome-trade-shows/stargazers)
@@ -292,6 +298,7 @@
 - [alf.io](https://github.com/alfio-event/alf.io) - Conference and exhibition ticketing (Java).
 - [osem](https://github.com/openSUSE/osem) - FOSS conference and event management.
 - [gathio](https://github.com/lowercasename/gathio) - Lightweight event page builder.
+- [trade-show-tools](https://github.com/LensmorOfficial/trade-show-tools?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows) - AI-powered toolkit for trade show exhibitors: ICP matching, ROI calculator, badge qualifier, and more.
 
 ### Lead Capture and Management
 
