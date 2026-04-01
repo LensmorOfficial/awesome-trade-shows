@@ -340,6 +340,8 @@
 
 [Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors, and generate qualified leads before the event starts.
 
+**[Try Lensmor Free →](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows)**
+
 ## Related Projects
 
 - [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) - Open dataset of global trade shows in CSV and JSON.
