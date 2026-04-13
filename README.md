@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows">
-    <img src="https://raw.githubusercontent.com/LensmorOfficial/.github/main/profile/assets/banner.png" alt="Lensmor" width="600">
-  </a>
-</p>
-
 # Awesome Trade Shows [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Stars](https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat)](https://github.com/LensmorOfficial/awesome-trade-shows/stargazers)
@@ -285,7 +279,6 @@
 
 - [Bizzabo](https://www.bizzabo.com/) - Event experience operating system.
 - [Grip](https://grip.events/) - AI-powered event networking and matchmaking.
-- [Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows) - AI-powered trade show intelligence platform for exhibitors. Discover shows, track competitors, and qualify leads.
 - [Swapcard](https://www.swapcard.com/) - Event management and networking platform.
 - [Vendelux](https://www.vendelux.com/) - Event intelligence platform for ROI tracking and attendee analytics.
 
@@ -346,8 +339,6 @@
 ## About Lensmor
 
 [Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors, and generate qualified leads before the event starts.
-
-**[Try Lensmor Free →](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-trade-shows)**
 
 ## Related Projects
 
